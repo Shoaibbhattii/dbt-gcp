@@ -1,0 +1,1 @@
+select * from `glassy-polymer-427808-n1.custdemo.customer`
